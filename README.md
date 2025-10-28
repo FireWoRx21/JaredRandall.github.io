@@ -1,4 +1,4 @@
-# Jared Randall, PhD Candidate 
+# Jared Randall, PhD Candidate at the University of Alberta
 
 ## Spatial Analysis 
 As a PhD Candidate in the field of Wildland Fire, I have spent a significant amount of time honing my skills in spatial analysis and statistics in ArcGIS, R and QGIS. I have applied my spatial analysis skills in both academic and industrial settings. 
